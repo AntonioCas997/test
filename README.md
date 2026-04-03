@@ -48,41 +48,42 @@ Buscando huellas...
 
 <table>
   <tr>
+    <!-- Persona -->
     <td align="center">
-      <img src="./gif/boy.gif" width="80px;" alt="sprite"/><br />
-      <sub><b>Abdiel Villareal</b></sub><br />
-      <a href="https://github.com/AbdielDataAnalyst">GitHub</a><br/>
-    </td>
-    <td align="center">
-      <img src="./gif/girl.gif" width="80px;" alt="sprite"/><br />
-      <sub><b>Sofía Justo</b></sub><br />
-      <a href="https://github.com/sofiajusto">GitHub</a><br/>
+      <img src="./gif/boy.gif" width="80"><br>
+      <b>Abdiel Villarreal</b><br>
+      <a href="https://github.com/AbdielDataAnalyst">GitHub</a>
     </td>
     <td align="center">
-      <img src="./gif/boy.gif" width="80px;" alt="sprite"/><br />
-      <sub><b>Antonio Castillo</b></sub><br />
-      <a href="https://github.com/AntonioCas997">GitHub</a><br/>
-    </td>
-     <td align="center">
-      <img src="./gif/boy.gif" width="80px;" alt="sprite"/><br />
-      <sub><b>Angel Gabriel</b></sub><br />
-      <a href="https://github.com/Super-Gabriel">GitHub</a><br/>
-      <sub>"Estuvo aqui..."</sub>
-    </td>
-     <td align="center">
-      <img src="./gif/girl.gif" width="80px;" alt="sprite"/><br />
-      <sub><b>Lessly Pantaleon</b></sub><br />
-      <a href="https://github.com/PaolaP44">GitHub</a><br/>
+      <img src="./gif/girl.gif" width="80"><br>
+      <b>Sofia Justo</b><br>
+      <a href="https://github.com/sofiajusto">GitHub</a>
     </td>
     <td align="center">
-      <img src="./gif/boy.gif" width="80px;" alt="sprite"/><br />
-      <sub><b>Adrian Perez</b></sub><br />
-      <a href="https://github.com/adrian-copeland">GitHub</a><br/>
+      <img src="./gif/boy.gif" width="80"><br>
+      <b>Antonio Castillo</b><br>
+      <a href="https://github.com/AntonioCas997">GitHub</a>
     </td>
     <td align="center">
-      <img src="./gif/girl.gif" width="80px;" alt="sprite"/><br />
-      <sub><b>Andrea</b></sub><br />
-      <a href="https://github.com/Andxty">GitHub</a><br/>
+      <img src="./gif/boy.gif" width="80"><br>
+      <b>Angel Gabriel</b><br>
+      <a href="https://github.com/Super-Gabriel">GitHub</a><br>
+      <i>Estuvo aquí...</i>
+    </td>
+    <td align="center">
+      <img src="./gif/girl.gif" width="80"><br>
+      <b>Lessly Pantaleon</b><br>
+      <a href="https://github.com/PaolaP44">GitHub</a>
+    </td>
+    <td align="center">
+      <img src="./gif/boy.gif" width="80"><br>
+      <b>Adrian Perez</b><br>
+      <a href="https://github.com/adrian-copeland">GitHub</a>
+    </td>
+    <td align="center">
+      <img src="./gif/girl.gif" width="80"><br>
+      <b>Andrea Garcia</b><br>
+      <a href="https://github.com/Andxty">GitHub</a>
     </td>
   </tr>
 </table>
