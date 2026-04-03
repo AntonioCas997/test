@@ -49,42 +49,43 @@ Buscando huellas...
 <table>
   <tr>
     <td align="center">
-      <img src="https://play.pokemonshowdown.com/sprites/ani/eevee.gif" width="80px;" alt="sprite"/><br />
+      <img src="./gif/boy.gif" width="80px;" alt="sprite"/><br />
       <sub><b>Abdiel Villareal</b></sub><br />
-      <a href="https://github.com/usuario2](https://github.com/AbdielDataAnalyst">GitHub</a><br/>
+      <a href="https://github.com/AbdielDataAnalyst">GitHub</a><br/>
       <sub>"Estuvo aqui..."</sub>
     </td>
     <td align="center">
-      <img src="https://play.pokemonshowdown.com/sprites/ani/charmander.gif" width="80px;" alt="sprite"/><br />
+      <img src="./gif/girl.gif" width="80px;" alt="sprite"/><br />
       <sub><b>Sofía Justo</b></sub><br />
       <a href="https://github.com/sofiajusto">GitHub</a><br/>
       <sub>"Estuvo aqui..."</sub>
     </td>
     <td align="center">
-      <img src="https://play.pokemonshowdown.com/sprites/ani/pikachu.gif" width="80px;" alt="sprite"/><br />
+      <img src="./gif/boy.gif" width="80px;" alt="sprite"/><br />
       <sub><b>Antonio Castillo</b></sub><br />
       <a href="https://github.com/AntonioCas997">GitHub</a><br/>
       <sub>"Estuvo aqui..."</sub>
     </td>
      <td align="center">
-      <img src="https://play.pokemonshowdown.com/sprites/ani/pikachu.gif" width="80px;" alt="sprite"/><br />
+      <img src="./gif/boy.gif" width="80px;" alt="sprite"/><br />
       <sub><b>Angel Gabriel</b></sub><br />
-      <a href="https://github.com/orgs/CopelandCDMX/people/Super-Gabriel">GitHub</a><br/>
+      <a href="https://github.com/Super-Gabriel">GitHub</a><br/>
       <sub>"Estuvo aqui..."</sub>
     </td>
      <td align="center">
-      <img src="https://play.pokemonshowdown.com/sprites/ani/charmander.gif" width="80px;" alt="sprite"/><br />
+      <img src="./gif/girl.gif" width="80px;" alt="sprite"/><br />
       <sub><b>Lessly Pantaleon</b></sub><br />
       <a href="https://github.com/PaolaP44">GitHub</a><br/>
       <sub>"Estuvo aqui..."</sub>
     </td>
     <td align="center">
-      <img src="https://play.pokemonshowdown.com/sprites/ani/charmander.gif" width="80px;" alt="sprite"/><br />
+      <img src="./gif/boy.gif" width="80px;" alt="sprite"/><br />
       <sub><b>Adrian Perez</b></sub><br />
-      <a href="https://github.com/orgs/CopelandCDMX/people/adrian-copeland">GitHub</a><br/>
+      <a href="https://github.com/adrian-copeland">GitHub</a><br/>
       <sub>"Estuvo aqui..."</sub>
+    </td>
     <td align="center">
-      <img src="https://play.pokemonshowdown.com/sprites/ani/charmander.gif" width="80px;" alt="sprite"/><br />
+      <img src="./gif/girl.gif" width="80px;" alt="sprite"/><br />
       <sub><b>Andrea</b></sub><br />
       <a href="https://github.com/Andxty">GitHub</a><br/>
       <sub>"Estuvo aqui..."</sub>
