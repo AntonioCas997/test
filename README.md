@@ -1,38 +1,57 @@
-# Copeland Project Overview
+<!-- Encabezado centrado -->
+<div align="center">
 
-<p align="center">
-  <img src="https://via.placeholder.com/600x200/0047FA/FFFFFF?text=COPELAND" alt="Copeland Logo" />
+<h1 style="color:#0047FA;">Copeland</h1>
+
+<p><strong>Aquí inició el proyecto.</strong></p>
+
+<p>
+Este repositorio representa el punto de partida de nuestras ideas, colaboración y crecimiento.  
+Un espacio donde la innovación comienza y cada contribución deja huella.
 </p>
+
+</div>
 
 ---
 
-## 🚀 Inicio del Proyecto
-Aquí comenzó todo. Este espacio marca el punto de partida de **Copeland**, un proyecto que nació con la visión de crecer junto a su comunidad y dejar huella en cada contribución.
+## 🚀 Overview
+
+Copeland es el origen de nuestro desarrollo, donde se construyen soluciones, se comparten conocimientos y se documenta la evolución del proyecto.
+
+Aquí encontrarás:
+- Código base
+- Documentación
+- Historial de contribuciones
+- Ideas en constante evolución
 
 ---
 
 ## 👥 Contribuyentes
-Cada persona que pasó por aquí dejó su marca.  
-Todos los colaboradores tienen su avatar —hombres y mujeres— mostrando que **“Aquí estuvo”**.
 
-| Avatar | Nombre | GitHub |
-|--------|--------|--------|
-| ![Avatar Hombre](https://via.placeholder.com/80/0047FA/FFFFFF?text=H) | Juan Pérez | [@juanperez](https://github.com/juanperez) |
-| ![Avatar Mujer](https://via.placeholder.com/80/0047FA/FFFFFF?text=M) | María López | [@marialopez](https://github.com/marialopez) |
-| ![Avatar Hombre](https://via.placeholder.com/80/0047FA/FFFFFF?text=H) | Carlos Ruiz | [@carlosruiz](https://github.com/carlosruiz) |
-| ![Avatar Mujer](https://via.placeholder.com/80/0047FA/FFFFFF?text=M) | Ana Torres | [@anatorres](https://github.com/anatorres) |
+Cada persona que participó en este proyecto dejó su marca.  
+“Aquí estuvo” 👇
 
-*(Agrega aquí todos los contribuyentes a lo largo de la historia del proyecto)*
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png" width="80px;" alt="avatar hombre"/><br />
+      <sub><b>Nombre Apellido</b></sub><br />
+      <a href="https://github.com/usuario1">GitHub</a>
+    </td>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/4140/4140051.png" width="80px;" alt="avatar mujer"/><br />
+      <sub><b>Nombre Apellido</b></sub><br />
+      <a href="https://github.com/usuario2">GitHub</a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
-## 📜 Legado
-Este repositorio no solo guarda código, sino también la historia de quienes hicieron posible que Copeland creciera.  
-Cada commit es un **“Aquí estuvo”** que forma parte de nuestra memoria colectiva.
+## ✨ Filosofía
 
----
-
-## 🎨 Estilo
-- Color principal: **#0047FA**
-- Identidad: Minimalista, centrada en la comunidad
-- Mensaje: *“Aquí comenzó Copeland, y aquí seguimos construyendo juntos.”*
+> "Los proyectos comienzan con una idea, pero crecen gracias a las personas que dejan su huella en ellos."
