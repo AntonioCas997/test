@@ -1,7 +1,7 @@
 <div align="left">
 
 ```bash
-C:\Users\Copeland>python copeland_main.py
+C:\Users\Copeland> python copeland_main.py
 ```
 </div>
 
@@ -52,19 +52,16 @@ Buscando huellas...
       <img src="./gif/boy.gif" width="80px;" alt="sprite"/><br />
       <sub><b>Abdiel Villareal</b></sub><br />
       <a href="https://github.com/AbdielDataAnalyst">GitHub</a><br/>
-      <sub>"Estuvo aqui..."</sub>
     </td>
     <td align="center">
       <img src="./gif/girl.gif" width="80px;" alt="sprite"/><br />
       <sub><b>Sofía Justo</b></sub><br />
       <a href="https://github.com/sofiajusto">GitHub</a><br/>
-      <sub>"Estuvo aqui..."</sub>
     </td>
     <td align="center">
       <img src="./gif/boy.gif" width="80px;" alt="sprite"/><br />
       <sub><b>Antonio Castillo</b></sub><br />
       <a href="https://github.com/AntonioCas997">GitHub</a><br/>
-      <sub>"Estuvo aqui..."</sub>
     </td>
      <td align="center">
       <img src="./gif/boy.gif" width="80px;" alt="sprite"/><br />
@@ -76,19 +73,16 @@ Buscando huellas...
       <img src="./gif/girl.gif" width="80px;" alt="sprite"/><br />
       <sub><b>Lessly Pantaleon</b></sub><br />
       <a href="https://github.com/PaolaP44">GitHub</a><br/>
-      <sub>"Estuvo aqui..."</sub>
     </td>
     <td align="center">
       <img src="./gif/boy.gif" width="80px;" alt="sprite"/><br />
       <sub><b>Adrian Perez</b></sub><br />
       <a href="https://github.com/adrian-copeland">GitHub</a><br/>
-      <sub>"Estuvo aqui..."</sub>
     </td>
     <td align="center">
       <img src="./gif/girl.gif" width="80px;" alt="sprite"/><br />
       <sub><b>Andrea</b></sub><br />
       <a href="https://github.com/Andxty">GitHub</a><br/>
-      <sub>"Estuvo aqui..."</sub>
     </td>
   </tr>
 </table>
@@ -98,7 +92,7 @@ Buscando huellas...
 ---
 
 ```bash
->filosofia
+> filosofia
 
 - Los proyectos inician con una idea...
 - pero viven gracias a quienes dejan su huella.
@@ -117,6 +111,6 @@ Gracias por visitar Copeland.
 </div>
 
 ```bash
-C:\Users\Copeland>
+C:\Users\Copeland> 
 
 ```
